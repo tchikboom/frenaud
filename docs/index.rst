@@ -19,4 +19,3 @@ Sommaire
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-é
